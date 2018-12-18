@@ -1,5 +1,5 @@
 ---
-title: "A graduate student-led hands-on quantitative methods course in R: Experiences on initiating, developing, and teaching"
+title: "A graduate student-led participatory live-coding quantitative methods course in R: Experiences on initiating, developing, and teaching"
 tags:
 - R
 - ecology
@@ -9,41 +9,49 @@ tags:
 # Author order? Right now it is alphabetical
 authors:
 - Luke W. Johnston
-  orcid:
-  affiliation:
+  orcid: 0000-0003-4169-2616
+  affiliation: "2,3"
 - Madeleine Bonsma-Fisher
-  orcid:
+  orcid: 0000-0002-5813-4664
   affiliation: 1
 - Lindsay Coome
-  orcid:
-  affiliation: 1
+  orcid: 
+  affiliation: 5
 - Joel Ostblom
-  orcid:
-  affiliation:
+  orcid: 0000-0003-0051-3239
+  affiliation: 4
 - Elliott Sales de Andrade
-  orcid:
-  affiliation:
+  orcid: 0000-0001-7310-8942
+  affiliation: 1
 - Lina Tran
-  orcid:
-  affiliation:
+  orcid: 0000-0003-3504-4524
+  affiliation: 8
 - Ahmed Hasan
+  orcid: 0000-0003-0002-8399
+  affiliation: 6
 - James S. Santangelo
-
+  orcid: 0000-0002-5921-2548
+  affiliation: 7
+- Sara Mahallati
+  orcid: 0000-0002-6765-0898
+  affiliation: 4
 affiliations:
 - name: Department of Physics, University of Toronto
-  index:
+  index: 1
 - name: Department of Nutritional Sciences, University of Toronto
   index: 2
 - name: Department of Public Health, Aarhus University
-  index:
+  index: 3
 - name: Institute of Biomaterials and Biomedical Engineering, University of Toronto
-  index:
+  index: 4
 - name: Department of Psychology, University of Toronto
-  index:
+  index: 5
+- name: Department of Cell and Systems Biology, University of Toronto
+  index: 6
 - name: Department of Ecology and Evolutionary Biology, University of Toronto
-  index:
+  index: 7
 - name: Department of Physiology, University of Toronto
-  index:
+  index: 8
 date: 18 December 2018
 bibliography: bibliography.bib
 ---
