@@ -76,4 +76,10 @@ Figures can be included like this: ![Fidgit deposited in figshare.](figshare_art
 
 # Main Body
 
+## Story of the project
+
+We are a group of graduate students who connected through the [UofT Coders](http://uoftcoders.github.io/) club at the University of Toronto. We created and ran a fourth-year course in the Department of Ecology and Evolutionary Biology titled “Theoretical Ecology and Reproducible Quantitative Methods in R.” We modelled the structure and portions of the course content on “Reproducible Quantitative Methods” a course created by Dr. Christie Bahlai [ ], modifying the lesson content to include more theoretical ecology topics but maintaining the focus on reproducibility and computational skills. Our teaching team was six graduate students from several different fields (Physiology, Biomedical Engineering, Physics, Psychology, and Nutritional Science); we divided course topics among each instructor to develop and deliver individual lessons and assignments.
+
+Following a successful term with a class of eight students, we delivered the course a second time to a class of twenty-six students with a teaching team of four graduate students (Physics, Ecology and Evolutionary Biology, Psychology, and Cell and Systems Biology). We modified our lecture material to include more generally applicable statistical concepts and fewer theoretical ecology concepts, and renamed the course "Quantitative Methods in R for Biology."
+
 # References
