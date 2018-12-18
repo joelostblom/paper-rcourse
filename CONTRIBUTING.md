@@ -7,6 +7,8 @@ Adding content to the repository:
 2. Work on a defined issue that was assigned to you or that you self-assigned.
 3. Submit a PR specific to the issue to close it. If you are still working on it,
 include `WIP:` in the title of your PR.
+4. Write `Closes #issue_number` in the comment of your pull request if the PR
+closes an issue.
 
 Adding issues and dealing with labels, milestones, and assigning:
 
@@ -16,7 +18,7 @@ well as assigning others to tasks.
 
 Reviewing PR:
 
-- Anyone can review or comment on a PR.
+- Anyone can review or comment on any PR.
+- We need at least one reviewer to approve a PR before it can be merged.
 - All authors are responsible for commenting on and approving the PR with the final
 version of the paper, before we submit to the journal.
-- We need at least one reviewer to approve the PR before it can be merged.
