@@ -79,22 +79,23 @@ Figures can be included like this: ![Fidgit deposited in figshare.](figshare_art
 ## Story of the project
 
 While there are many excellent open source libraries for quantitative data
-analysis, the use of subpar analysis tools (such as spreadsheet software) is
-still prevalent among graduate students. Part of this issue stems from lack of
-awareness, and part from that students are often required to learn about new
-tools in isolation and outside excessive amounts of time already spent on their
-main research activities. As such, those that do embark on this daunting
-journey often quit before they can reap the rewards of their efforts.
-Like-minded peers could provide the needed support structure to uphold
-motivation, but are often few and far between, especially in fields without a
-strong quantitative culture. To remedy these issues, we launched the student
-group [UofT Coders](http://uoftcoders.github.io/) which teaches how to use code
-for research through skill sharing, co-working and community building in a
-friendly environment.
+analysis, the use of less capable analysis tools (such as spreadsheet software)
+is still prevalent among graduate students although these drastically reduce
+analysis reproducibility, power and efficiency. Part of this issue stems from
+lack of awareness, and part from that students are often required to learn
+about new tools in isolation and on top of their main research activities. As
+such, those that do embark on this daunting journey often quit before they can
+reap the rewards of their efforts. Like-minded peers could provide the needed
+support structure to uphold motivation, but are often few and far between,
+especially in fields without a strong quantitative culture. To remedy these
+issues, we launched the student group [UofT
+Coders](http://uoftcoders.github.io/) which teaches how to use code for
+research through skill sharing, co-working and community building in a friendly
+environment.
 
 After receiving overwhelmingly positive feedback on content and teaching style,
-we sought to formally disseminate our experiences through the university
-curriculum. We designed a course on open, reproducible, data analysis, which we
+we sought to formally share our experiences through the university
+curriculum. We designed a course on open, reproducible data analysis, which we
 created and taught as a fourth-year undergraduate course in the department of
 Ecology and Evolutionary Biology under the title "Theoretical Ecology and
 Reproducible Quantitative Methods in R." We modelled the structure and portions
