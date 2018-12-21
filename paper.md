@@ -53,7 +53,7 @@ affiliations:
 - name: Department of Physiology, University of Toronto
   index: 8
 date: 18 December 2018
-bibliography: bibliography.bib
+bibliography: paper.bib
 ---
 
 # Summary
