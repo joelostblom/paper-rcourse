@@ -76,6 +76,37 @@ Figures can be included like this: ![Fidgit deposited in figshare.](figshare_art
 
 # Main Body
 
+## Teaching experience
+
+For the first iteration of the course, our teaching team consisted of six
+graduate students from several different fields (Physiology, Biomedical
+Engineering, Physics, Psychology, and Nutritional Science); we divided course
+topics among each instructor to develop and deliver individual lessons and
+assignments to the eight participating students. After the core material had
+been developed, we could reduce the number of instructors to four graduate
+students for the second iteration (Physics, Ecology and Evolutionary Biology,
+Psychology, and Cell and Systems Biology) although the number of students
+increased to 26. We estimate that four instructors could effectively teach the
+current iteration of the course to around 40 students.
+
+To maximize the learning experience, we prioritized in-class participation,
+engagement, and hands-on experience. The main teaching techniques we used to
+achieve this were participatory live coding
+[@rubin_effectiveness_2013;@haaranen_programming_2017;@wilson_teaching_2018]
+where students were asked to complete partial solutions as we worked through
+the material together, and project-based learning
+[@sawyer_cambridge_2006;@strobel_when_2009;@markham_project_2011] where
+students collaborated in teams on data analysis problems, similar to a real
+world scenario.
+
+To ensure that proper teaching assistance was available at all times, at least
+two instructors were present for each lecture. One of these would act as
+a "helper" and students signal their need for assistance by attaching
+differently colored sticky notes to the back of their laptop monitor. This
+method avoid interrupting the lecture flow when students need assistance and it
+has been used successfully in workshops developed by The Carpentries
+[@wilson-software-carpentry].
+
 ## Story of the project
 
 While there are many excellent open source libraries for quantitative data
