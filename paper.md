@@ -94,4 +94,47 @@ Bullet point version (can be removed after discussion):
 
 # Main Body
 
+## Story of the project
+
+While there are many excellent open source libraries for quantitative data
+analysis, the use of less capable analysis tools (such as spreadsheet software)
+is still prevalent among graduate students although these drastically reduce
+analysis reproducibility, power and efficiency. Part of this issue stems from
+lack of awareness, and part from that students are often required to learn
+about new tools in isolation and on top of their main research activities. As
+such, those that do embark on this daunting journey often quit before they can
+reap the rewards of their efforts. Like-minded peers could provide the needed
+support structure to uphold motivation, but are often few and far between,
+especially in fields without a strong quantitative culture. To remedy these
+issues, we launched the student group [UofT
+Coders](http://uoftcoders.github.io/) which teaches how to use code for
+research through skill sharing, co-working and community building in a friendly
+environment.
+
+After receiving overwhelmingly positive feedback on content and teaching style,
+we sought to formally share our experiences through the university
+curriculum. We designed a course on open, reproducible data analysis, which we
+created and taught as a fourth-year undergraduate course in the department of
+Ecology and Evolutionary Biology under the title "Theoretical Ecology and
+Reproducible Quantitative Methods in R." We modelled the structure and portions
+of the course content after ["Reproducible Quantitative
+Methods"](https://cbahlai.github.io/rqm-template/) a course created by Dr.
+Christie Bahlai, modifying the lesson content to include additional theoretical
+ecology topics but maintaining the focus on reproducibility and computational
+skills. Our teaching team consisted of six graduate students from several
+different fields (Physiology, Biomedical Engineering, Physics, Psychology, and
+Nutritional Science); we divided course topics among each instructor to develop
+and deliver individual lessons and assignments.
+
+Following a successful pilot term with a class of eight students, the course
+was incorporated into the long-term curriculum and delivered a second time to a
+class of twenty-six students with a teaching team of four graduate students
+(Physics, Ecology and Evolutionary Biology, Psychology, and Cell and Systems
+Biology). We modified our lecture material to include more generally applicable
+statistical concepts and fewer theoretical ecology concepts, and renamed the
+course ["Quantitative Methods in R for
+Biology."](https://uoftcoders.github.io/rcourse/) to reflect this change. On
+both occasions, the course received excellent feedback from the students and
+the supervising professors.
+
 # References
